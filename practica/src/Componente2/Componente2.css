@@ -1,0 +1,15 @@
+.Circulo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: aqua;
+    color: none;
+}
+
+.Cuadrado {
+    height: 100px;
+    width: 100px;
+    border-radius: 0%;
+    background-color: red;
+    color: none;
+}
